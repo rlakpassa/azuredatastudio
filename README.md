@@ -6,7 +6,7 @@
 
 Azure Data Studio is a data management tool that enables you to work with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
-## **Download the latest Azure Data Studio release**
+#### **Download the latest Azure Data Studio release**
 
 | Platform																|
 | ---------------------------------------	|
